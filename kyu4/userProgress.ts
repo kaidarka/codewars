@@ -1,6 +1,6 @@
 // Kata - Codewars style ranking system
 // Link - https://www.codewars.com/kata/51fda2d95d6efda45e00004e/javascript
-class User {
+class UserProgress {
   privateRank;
   privateProgress;
 
